@@ -1,4 +1,5 @@
 ## Maze Generator
+<img width="1511" height="779" alt="image" src="https://github.com/user-attachments/assets/b45224c8-a59b-4e11-bcbf-f0c53f59b075" />
 
 ### What it does:
 Generates mazes with a single solution (no loops) using a randomized recursive algorithm.
