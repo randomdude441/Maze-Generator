@@ -1,4 +1,4 @@
-#### Maze Generator
+## Maze Generator
 
 ### What it does:
 Generates mazes with a single solution (no loops) using a randomized recursive algorithm.
